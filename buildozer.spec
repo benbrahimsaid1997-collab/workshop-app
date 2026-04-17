@@ -1,6 +1,6 @@
 [app]
 
-title = ورشة السيارات
+title = Workshop
 package.name = workshop
 package.domain = com.workshop
 source.dir = .
@@ -18,8 +18,6 @@ android.archs = arm64-v8a
 android.accept_sdk_license = True
 android.release_artifact = apk
 log_level = 2
-warn_on_root = 1
 
 [buildozer]
 log_level = 2
-warn_on_root = 1
